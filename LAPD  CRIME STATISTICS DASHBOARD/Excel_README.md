@@ -16,9 +16,10 @@ This repository contains Excel dashboards and reports built using real-world dat
 
 #### Dashboard Screenshots
 
-![LAPD Crime Dashboard](dashboard.png)
+<img width="896" height="657" alt="image" src="https://github.com/user-attachments/assets/7e7e7a07-89a7-4838-a750-c3c06773535f" />
 
-![LAPD Crime Trend 2020-2024](trend.png)
+
+<img width="891" height="311" alt="image" src="https://github.com/user-attachments/assets/deaaa1aa-8688-4f33-978e-6bae4f3b4986" />
 
 ---
 
@@ -39,8 +40,6 @@ The goal was to give a clear, at-a-glance view of crime trends, victim demograph
 - **Male victims (394,539)** represent the largest recorded group, followed by female victims (350,930) and non-binary/other (92,893)
 
 - **Strong-arm tactics** (hands, fists, feet or bodily force) are overwhelmingly the most common weapon type at **174,296 incidents** — more than 4x the next category
-
-- **Handguns account for 20,076 incidents**, while verbal threats (23,786) rank higher than firearms — suggesting a significant proportion of crimes involve intimidation rather than physical weapons
 
 ---
 
@@ -78,10 +77,6 @@ Designed three chart types, all connected to Pivot Tables so they **update autom
 | Column Chart | Total victims reported by sex |
 | Horizontal Bar Chart | Top weapon types by frequency |
 
-**5. Dashboard Layout**
-
-Assembled all charts and a KPI card (total crimes reported) into a **single-sheet dashboard** with a consistent navy and teal colour theme, suitable for stakeholder reporting and executive presentation.
-
 ---
 
 #### Excel Features Used
@@ -95,14 +90,4 @@ Assembled all charts and a KPI card (total crimes reported) into a **single-shee
 
 ---
 
-#### Files
 
-| File | Description |
-|---|---|
-| `LAPD_Crime_Dashboard.xlsx` | Excel dashboard file |
-| `dashboard.png` | Dashboard screenshot |
-| `trend.png` | Crime trend chart screenshot |
-
----
-
-*Dataset source: [LAPD Open Data Portal](https://data.lacity.org)*
